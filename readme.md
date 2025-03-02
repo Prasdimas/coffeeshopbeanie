@@ -74,6 +74,10 @@ Sebelum memulai, pastikan Anda telah menginstal:
      ```
    - Frontend akan berjalan di `http://localhost:5174`.
 
+
+Untuk melihat hasil tampilannya : 
+`http://localhost:5174`
+
 ## Teknologi yang Digunakan
 
 - **Backend**: Laravel
